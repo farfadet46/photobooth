@@ -1,0 +1,30 @@
+﻿{
+	"version": 1680638611,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/compteur-sheet0.png",
+		"images/compteur-sheet1.png",
+		"images/compteur-sheet2.png",
+		"images/flash-sheet0.png",
+		"images/appercu.png",
+		"images/btn_fotos-sheet0.png",
+		"images/main_bg-sheet0.png",
+		"images/bg_webcam.png",
+		"images/bg_titre.png",
+		"images/strip1.png",
+		"images/btn_rectangle_sepia-sheet0.png",
+		"images/btn_rectangle_dot-sheet0.png",
+		"media/camera.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"zlib_and_gzip.min.js",
+		"adapter.js"
+	]
+}
